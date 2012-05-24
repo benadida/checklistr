@@ -1,0 +1,1 @@
+Checklistr is a service that lets users invoke a checklist widget on any web page, fill it out, and integrate the results into the web page input form. For example, in a github pull request, a user could invoke the Checklistr bookmarklet, fill out the checklist, and auto-dump the result in the pr comment stream.
